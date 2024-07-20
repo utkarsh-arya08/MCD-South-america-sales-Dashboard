@@ -1,7 +1,7 @@
-# MCD-South-america-sales-Dashboard
+# MCD-South-america-sales-project
 
 # Overview:
-This project analyzes McDonald's 2022 sales in South America. Key metrics include total sales, profit, customer count, and satisfaction levels. It features a sales trend comparison with 2021 and a country-wise sales heatmap. The goal is to extract insights and recommend strategies to improve performance and customer experience.
+This project analyzes McDonald's 2022 sales in South America using Excel. Key metrics include total sales, profit, customer count, and satisfaction levels. It features a sales trend comparison with 2021 and a country-wise sales heatmap. The goal is to extract insights and recommend strategies to improve performance and customer experience.
 
 ![MCD excel Dashboard](https://github.com/user-attachments/assets/65d3873f-1300-4370-8d01-8bf7ed6b347f)
 
